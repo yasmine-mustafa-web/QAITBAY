@@ -1,0 +1,389 @@
+.first{
+    background-image: url('https://www.egypttoursportal.com/images/2018/07/Qaitbay-Citadel-Egypt-Tours-Portal.jpg');
+    background-position: center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+nav{
+    justify-content: space-between;
+    padding: 25px;
+    display: flex;
+}
+.right ul{
+list-style: none;
+display: flex;
+gap: 10px;
+font-size: 15px;
+font-family: 'Montserrat' , sans-serif;
+color: black;
+cursor: pointer;
+font-weight: 500;
+}
+.right a{
+text-decoration: none;
+color: black;
+}
+.left{
+    display: flex;
+   
+}
+.left2{
+    display: flex;
+    flex-direction: column;
+     font-size: 15px;
+    font-family: 'Cinzel' , serif;
+    color: black;
+    font-weight: 500;
+}
+header{
+    margin-left: 40px;
+}
+header p:first-child{
+    font-size: 15px;
+    margin-top: 48px;
+    color: rgb(126, 91, 4);
+    margin-bottom: 10px;
+    font-family: 'Poiret One' , sans-serif;
+    font-weight: 700;
+}
+header h1{
+       font-family: 'Cinzel' , serif;
+       font-size: 75px;
+line-height: 60px;
+}
+span{
+     color: rgb(126, 91, 4);
+    font-family: 'Cinzel' , sans-serif;
+
+}
+header p:last-of-type{
+    font-family: 'Fredoka' , sans-serif;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+header a{
+    font-family: 'Fredoka' , sans-serif;
+    text-decoration: none;
+    background-color: rgb(126, 91, 4);
+    color: black;
+    font-size: 15px;
+    padding: 10px 20px;
+    border-radius: 8px;
+        font-weight: 400;
+
+}
+.two{
+    display: flex;
+padding: 20px;
+margin-top: 20px;
+align-items: center;
+}
+.twotwo{
+    display: flex;
+    flex-direction: column;
+}
+.two img{
+    width: 250px;
+    height: 170px;
+    object-fit: cover;
+    margin: 20px 20px 20px 20px ;
+    border-radius: 10px;
+}
+.hzLine{
+    height: 1.3px;
+    background-color: rgb(126, 91, 4);
+width: 40px;
+}
+.twotwo p:first-child{
+         color: rgb(126, 91, 4);
+             font-family: 'Fredoka' , sans-serif;
+font-size: small;
+padding-bottom: 0;
+margin-bottom: 5px;
+}
+.twotwo h4{
+        font-family: 'Cinzel' , serif;
+        margin-top: 0;
+padding-bottom: 0;
+}
+.twotwo p:nth-of-type(2){
+font-family: 'Poppins' , sans-serif;
+margin-top: 10px;
+font-size: 15px;
+text-align: justify;
+}
+.twotwo a{
+    font-size: 15px;
+    font-family: 'Fredoka' , sans-serif;
+    text-decoration: none;
+    background-color: rgb(126, 91, 4);
+    border-radius: 10px;
+    width: 170px;
+    padding: 8px 15px;
+    text-align: center;
+    flex-wrap: nowrap;
+    white-space: nowrap;
+    color: white;    
+}
+.card{
+    box-shadow: 0px 9px 10px rgb(126, 91, 4);
+    align-items: center;
+    height: 200px !important;
+    margin-right: 10px;
+    width: 190px;
+    margin-top: 30px;
+    transition: all 0.3s ease;
+}
+.card:hover{
+    transform: scale(1.03);
+}
+.card i{
+          color: rgb(126, 91, 4);
+          margin: 10px 0px;
+   font-size: 20px;
+}
+.card h4 , .card h3{
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Cinzel' , serif;
+    margin-bottom: 15px;
+
+}
+.card p{
+text-align: center;
+margin: 0;
+padding: 0;
+    font-family: 'Fredoka' , sans-serif;
+
+}
+.ple{
+    font-family: 'Poiret One' , sans-serif !important;
+    font-weight: 700 !important;
+              color: rgb(126, 91, 4);
+
+}
+.daily{
+              color: rgb(126, 91, 4);
+margin: 0;
+padding: 0;
+}
+.three , .four{
+    margin-top: 50px;
+                  padding-left: 20px;
+
+}
+.three h4{
+    color: white;
+}
+.three{
+    background: linear-gradient(to bottom ,  rgb(22, 32, 77) , rgb(26, 26, 110)  ) ;
+    padding: 30px 20px;
+}
+.three p , .four p:first-child{
+    font-size: small;
+              color: rgb(126, 91, 4);
+margin-bottom: 0;
+}
+.three h4 , .four h4{
+        font-family: 'Cinzel' , serif;
+margin-top: 0px;
+}
+.three img{
+    width: 240px;
+    height: 170px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin: 2px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+}
+.firstF{
+    display: flex;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+.footer p:nth-child(2){
+    font-family: 'Poiret One' , sans-serif;
+font-size: 15px;
+font-weight: 600;
+}
+.social{
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+}
+.social i{
+    color: black;
+    font-size: 20px;
+
+}
+.navF a{
+    font-size: 15px;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.downn{
+    display: flex;
+    justify-content: space-between;
+        background-color: rgb(126, 91, 4);
+color: black;
+align-items: center;
+    padding: 10px;
+    margin-top: 50px;
+}
+.itself{
+    display: flex;
+    font-size: 15px;
+    font-family: "poppins" , sans-serif;
+gap: 5px;
+}
+footer{
+            background-color: rgb(126, 91, 4);
+text-align: center;
+padding: 2px;
+}
+footer p{
+    font-size: 18px;
+    color: black;
+}
+.map{
+              color: rgb(126, 91, 4);
+
+}
+.conn{
+   align-items: center;
+}
+.conn h6 {
+    font-size: small;
+}
+.menuToggle{
+    display: none;
+}
+@media (max-width:768px) {
+    header{
+        margin-left: 15px !important;
+    }
+    header p:first-child{
+        font-size: 12px;
+    }
+    header p:last-of-type{
+        font-size: 15px;
+        align-items: flex-start;
+        line-height: 15px;
+        text-align: justify;
+        font-weight: 500;
+    }
+    header h1{
+        font-size: 50px;
+        line-height: 39px;
+    }
+    header a{
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+    nav {
+        position: relative;
+        display: flex;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .menuToggle {
+        display: block;
+        cursor: pointer;
+        order: 2;
+        font-size: 24px;
+    }
+
+    .nav-links {
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: rgb(126, 91, 4);
+        box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.25);
+        z-index: 2000;
+        padding: 25px;
+        max-height: 0;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(-15px);
+        overflow: hidden;
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .nav-links a li {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        text-align: center;
+        padding: 5px 0px;
+    }
+
+    .nav-links.active {
+        visibility: visible;
+        transform: translateY(0);
+        max-height: 580px;
+        opacity: 1;
+    }
+    .two{
+        display: flex;
+        flex-direction: column;
+    }
+    .twotwo{
+        display: contents;
+    }
+    .twotwo a{
+        order: 2;
+        margin-top: 30px;
+    }
+    .two img , .two .card{
+        order: 1;
+    }
+    .three{
+        padding: 10px;
+        text-align: center;
+    }
+    .three img{
+        width: 120px;
+        height: 120px;
+    }
+ .cards{
+display: flex;
+flex-direction: column;
+text-align: center;
+justify-content: center;
+margin: 0 auto;
+    }
+    .four .card{
+        text-align: center;
+        justify-content: center;
+margin: 10px auto;
+
+    }
+    .downn{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: justify;
+        font-size: 18px;
+    }
+    footer p{
+        font-size: 15px;
+    }
+    .navF{
+        margin: 40px 0px;
+    }
+ 
+}
