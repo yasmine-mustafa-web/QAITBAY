@@ -14,13 +14,3 @@
 * **HTML**
 * **CSS & Bootstrap:** cards and UI.
 * **JavaScript:** for responsiveness
-
-## Sections Included
-
-
-* **Hero Section:** Features a visual of the citadel with an integrated navigation menu and a clear call-to-action to explore.
-* **About/History Section:** Highlights fast facts and timelines about the fortress using a modern card-based system.
-* **Gallery:** A beautiful photo grid displaying the architectural details of the site.
-* **Plan Your Visit:** Provides clear informational blocks regarding ticketing and hours.
-* **Footer:** Contains quick links, copyright info and simulated contact/social channels.
-*
